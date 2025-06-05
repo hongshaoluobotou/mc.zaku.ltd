@@ -1,0 +1,8 @@
+{
+  "label": "Docusaurus",
+  "position": 255,
+  "link": {
+    "type": "generated-index",
+    "description": "Docusaurus help"
+  }
+}

@@ -1,0 +1,11 @@
+.unique-tabs .tabs__item {
+    margin-right: 8px;
+    line-height: 16px
+}
+
+.unique-tabs .tabs__item--active {
+    color: #fff;
+    border-radius: var(--ifm-global-radius);
+    background-color: var(--ifm-tabs-color-active);
+    border: 0
+}

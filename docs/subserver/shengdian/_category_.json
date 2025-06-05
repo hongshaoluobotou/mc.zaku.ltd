@@ -1,0 +1,8 @@
+{
+  "label": "生电服[shengdian]",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "不限制任何生电的服务器"
+  }
+}
