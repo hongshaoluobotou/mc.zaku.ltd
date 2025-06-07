@@ -142,7 +142,13 @@ import TabItem from '@theme/TabItem';
     ![Java版加入多人游戏示例](./Join_MutiGame.gif)
   </TabItem>
   <TabItem value="BE" label="基岩版">
-    
+    1. 登录`微软账号`(已登录可忽略)
+    2. 点击`游戏`
+    3. 点击右上角`服务器`
+    4. 点击`添加服务器`
+    5. 在服务器地址一栏输入`zaku.ltd`
+    6. 在端口一栏输入`19132`
+    7. 点击`添加并开始`
   </TabItem>
 </Tabs>
 
@@ -195,7 +201,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="BE" label="基岩版">
     :::tip
   
-    基岩版玩家**进入外****不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
+    基岩版玩家**首次进入外不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
     
     :::
   </TabItem>
@@ -205,7 +211,8 @@ import TabItem from '@theme/TabItem';
 
 ## 5.修复皮肤显示(可选)
 
-`/skin <url>`
+`/skin <url>` 显示Url处的皮肤
+`/skin <玩家名>` 显示指定玩家(正版)的皮肤
 
 ## 6.帮助我们
 
