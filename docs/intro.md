@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 ## 1.安装Minecraft
 
-<Tab groupId="game-edition">
+<Tabs groupId="game-edition">
   <TabItem value="JE" label="Java版">
     
     对于电脑，挑选下列一个启动器使用，结合**网页**与**搜索引擎**指引你完成Minecraft的安装
