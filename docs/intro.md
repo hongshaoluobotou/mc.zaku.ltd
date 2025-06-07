@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 ## 1.安装Minecraft
 
-<Tabs groupId="game-edition">
+<Tab groupId="game-edition">
   <TabItem value="JE" label="Java版">
     
     对于电脑，挑选下列一个启动器使用，结合**网页**与**搜索引擎**指引你完成Minecraft的安装
@@ -178,7 +178,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="BE" label="基岩版">
     :::tip
   
-    基岩版玩家**永远不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
+    基岩版玩家**除第一次进入外****不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
     
     :::
   </TabItem>
