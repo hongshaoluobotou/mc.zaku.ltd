@@ -11,6 +11,34 @@ import TabItem from '@theme/TabItem';
 
 ----
 
+<details>
+  <summary>全部服务器地址</summary>
+
+  | 服务器       | 地址                 | Java端口 | 基岩端口 |
+  | :---------: | ------------------- | :---: | :---: |
+  | 上海阿里云BGP | zaku.ltd            | 25565 | 19132 |
+  | 宁波电信     | fhafm.fun            | 25565 | 19132 |
+  | 宿迁蒲公英BGP | 2666v3.mc5173.cn    | 25565 | 19132 |
+
+  <details>
+    <summary>速览MOTD</summary>
+
+    |                                    Java Edition                                    |                                        Bedrock Edition                                         |
+    |:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+    |          ![fhafm.fun:25565 ](https://mcapi.us/server/image?ip=fhafm.fun)           |        ![fhafm.fun:19132](https://motdbe.blackbe.work/status_img?host=fhafm.fun:19132)         |
+    | ![2666v3.mc5173.cn:25565](https://mcapi.us/server/image?ip=2666v3.mc5173.cn:25565) | ![2666v3.mc5173.cn:19132](https://motdbe.blackbe.work/status_img?host=2666v3.mc5173.cn:19132)  |
+    |           ![zaku.ltd:25565 ](https://mcapi.us/server/image?ip=zaku.ltd)            |         ![zaku.ltd:19132](https://motdbe.blackbe.work/status_img?host=zaku.ltd:19132)          |
+
+  </details>
+
+  :::warning[注意]
+  各节点数据并不完全互通，不同代理端的中不同子服的玩家聊天消息和玩家列表不可见。
+  
+  具体参阅：[代理服务器](/docs/proxy)
+  :::
+
+</details>
+
 ## 1.安装Minecraft
 
 <Tabs groupId="game-edition">
@@ -178,7 +206,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="BE" label="基岩版">
     :::tip
   
-    基岩版玩家**除第一次进入外****不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
+    基岩版玩家**进入外****不需要**手动注册和登录无论是你更改了服务器域名还是IP，并且更改了玩家名也不会丢失玩家档案。
     
     :::
   </TabItem>
