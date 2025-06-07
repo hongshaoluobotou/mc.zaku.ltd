@@ -144,17 +144,6 @@ import TabItem from '@theme/TabItem';
   <TabItem value="BE" label="基岩版">
     
   </TabItem>
-  <TabItem value="AllNode" label="所有服务器节点">
-    | 服务器       | 地址                 | Java端口 | 基岩端口 |
-    | :---------: | ------------------- | :---: | :---: |
-    | 上海阿里云BGP | zaku.ltd            | 25565 | 19132 |
-    | 宁波电信     | fhafm.fun            | 25565 | 19132 |
-    | 宿迁蒲公英BGP | 2666v3.mc5173.cn    | 25565 | 19132 |
-    
-    :::warning[注意]
-    各节点数据并不完全互通，具体参阅：
-    :::
-  </TabItem>
 </Tabs>
 
 ----
